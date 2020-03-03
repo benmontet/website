@@ -1,0 +1,7 @@
+We are happy to announce a Fourth meeting in the Tess Ninja series, "All Sky Science with TESS," to be held 29 June to 3 July, 2020 on the campus of the University of Birmingham in Birmingham, UK. This workshop, building on previous workshops at the Flatiron Institute, University of Chicago, and the University of Sydney, is intended to provide opportunities to build new collaborations, minimize duplication of effort, and facilitate the development of open-source tools for working with TESS data.
+
+This is not a traditional scientific conference and there will not be any formal talks. Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the week. We welcome people interested in all potential uses of TESS data. This project is designed to help build and support the broader TESS community, and we welcome applications from people both inside and outside the TESS project with broad scientific interests. There is more information about the meeting on the website at https://tess.science/four.
+
+We can comfortably accommodate 40 participants. If you are interested in attending, please apply using the link on the website before 9th March 2020; invitations will be sent out shortly thereafter. Please feel free to contact SOC Chair Guy Davies at G.R.Davies@bham.ac.uk if you have any questions, and feel free to forward this message to anyone you think may be interested in attending.
+
+We hope to see you in Birmingham!
